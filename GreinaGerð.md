@@ -18,7 +18,10 @@ o Hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.
 
 
 Ég valdi parallax template frá materializecss fyrir aðalsíðuna mína og svo flexbox fyrir aukasíðurnar <br>
-girfaff
+Ég notaði buttons til að fára á hinar tvær síðurnar og topmenu með smooth scrolling til að fara á milli leikja. <br>
+Það sem ég lenti í vandræðum við var smooth scrolling því scroll.js var ekki að virka hjá mér fyrst, ég skoðaði gömul verkefni og fattaði afhverju það virkaði ekki. <br>
+Næstu skref með vefinn myndi vera að gera síðu fyrir Battlefield 1 og bæti við fleiri animations og flottari hover yfir topmenu
+
 
 
 
